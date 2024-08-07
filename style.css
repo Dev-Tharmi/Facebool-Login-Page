@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+.fb-login-container {
+  display: flex;
+}
+.fb-heads {
+  margin-top: 200px;
+  margin-left: 150px;
+}
+h1 {
+  color: rgb(24, 39, 128);
+  font-size: 50px;
+}
+p {
+  font-size: 30px;
+  width: 500px;
+}
+.login-form {
+  text-align: center;
+  background-color: rgb(201, 20, 20);
+  margin-top: 10%;
+  border-radius: 15px;
+  padding: 15px;
+  width: 350px;
+  margin-left: 150px;
+}
+input {
+  display: block;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 300px;
+  padding: 10px;
+  border: solid 1px blue;
+  margin-left: 13px;
+}
+.btn-login {
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 320px;
+  padding: 10px;
+  border: none;
+  background-color: rgb(19, 31, 133);
+  color: white;
+  font-size: large;
+}
+h3 {
+  color: blue;
+}
+.btn-create {
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 200px;
+  padding: 10px;
+  border: none;
+  background-color: rgb(32, 133, 19);
+  color: white;
+  font-size: large;
+}
